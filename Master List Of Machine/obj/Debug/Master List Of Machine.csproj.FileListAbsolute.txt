@@ -1,0 +1,8 @@
+c:\users\mahr\documents\visual studio 2010\Projects\Master List Of Machine\Master List Of Machine\bin\Master List Of Machine.dll
+c:\users\mahr\documents\visual studio 2010\Projects\Master List Of Machine\Master List Of Machine\bin\Master List Of Machine.pdb
+c:\users\mahr\documents\visual studio 2010\Projects\Master List Of Machine\Master List Of Machine\obj\Debug\Master List Of Machine.dll
+c:\users\mahr\documents\visual studio 2010\Projects\Master List Of Machine\Master List Of Machine\obj\Debug\Master List Of Machine.pdb
+D:\CSK\Master List Of Machine\Master List Of Machine\bin\Master List Of Machine.dll
+D:\CSK\Master List Of Machine\Master List Of Machine\bin\Master List Of Machine.pdb
+D:\CSK\Master List Of Machine\Master List Of Machine\obj\Debug\Master List Of Machine.dll
+D:\CSK\Master List Of Machine\Master List Of Machine\obj\Debug\Master List Of Machine.pdb
